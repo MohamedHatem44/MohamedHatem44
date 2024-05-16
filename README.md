@@ -2,7 +2,8 @@
   Hi 👋 I'm Mohamed Hatem
 </h1>
 <h3 align="center">
-  A passionate Full stack developer
+<!--   A passionate Full stack developer -->
+  ASP.Net | Angular Full Stack Developer | Microsoft Dynamics 365
 </h3>
 <!-- Bio -->
 <p align="center">
