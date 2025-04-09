@@ -9,7 +9,7 @@
 <p align="center">
   👨‍💻 Software Engineer<br>
   🌱 Currently exploring Technical Content Writing<br>
-  🔭 Having training at Information Technology Institute (ITI)<br>
+  🔭 ITI Graduate<br>
 </p>
 
 ## Contact
